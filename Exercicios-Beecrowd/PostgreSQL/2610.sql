@@ -1,0 +1,1 @@
+select cast(avg(price) as decimal (5,2)) as price from products
